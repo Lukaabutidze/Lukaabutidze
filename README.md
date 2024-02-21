@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Giorgi Ilariani</h1>
+<h1 align="center">Hello 👋, I'm Luka Abutidze</h1>
 <h3 align="center">Front-end Web Developer</h3>
 
 <p align="center">
