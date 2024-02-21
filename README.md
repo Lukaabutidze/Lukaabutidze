@@ -7,12 +7,10 @@
 
 
 
-* 🌍  I'm based in Bristol, England
-* 🖥️  See my portfolio at [danielcranney.com](http://danielcranney.com)
-* ✉️  You can contact me at [danielcranney@gmail.com](mailto:danielcranney@gmail.com)
-* 🚀  I'm currently working on [Smylo.co](http://smylo.co), [ColorHub.app](http://colorhub.app) and [ProfileMe.dev](http://profileme.dev)
+* 🌍  I'm based in Tbilisi, Georgia
+* ✉️  You can contact me at [lukaabutidze99@gmail.com](mailto:lukaabutidze99@gmail.com)
 * 🧠  I'm learning TypeScript
-* 🤝  I'm open to collaborating on exciting projects as a frontend developer, designer or dev rel.
+* 🤝  I'm open to collaborating on exciting projects as a frontend developer.
 
 
 
